@@ -31,6 +31,6 @@ a:hover {
   visibility: hidden;
 }
 
-.spoiler {
+.spoiler:hover {
   visibility: visible;
 }
