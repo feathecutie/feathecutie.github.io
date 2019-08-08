@@ -28,9 +28,9 @@ a:hover {
 }
 
 .spoiler {
-  visibility: hidden;
+  color: black;
 }
 
 .spoiler:hover {
-  visibility: visible;
+  color: white;
 }
