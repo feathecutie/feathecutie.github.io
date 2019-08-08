@@ -3,8 +3,8 @@ body {
   color: purple;
   font-size: 250%;
   margin: 25px;
-	overflow: auto;
-	font-family: 'VT323', sans-serif;
+  overflow: auto;
+  font-family: 'VT323', sans-serif;
 }
 
 .header {
@@ -17,14 +17,14 @@ body {
 }
 
 a {
-	text-decoration: underline;
-	/* text-decoration: none; */
-	color: purple;
+  text-decoration: underline;
+  /* text-decoration: none; */
+  color: purple;
 }
 
 a:hover {
-	text-decoration: underline;
-	color: rgba(220, 75, 150,1);
+  text-decoration: underline;
+  color: rgba(220, 75, 150,1);
 }
 
 .spoiler {
