@@ -1,0 +1,28 @@
+body {
+  background-color: #ffa2fb;
+  color: purple;
+  font-size: 250%;
+  margin: 25px;
+	overflow: auto;
+	font-family: 'VT323', sans-serif;
+}
+
+.header {
+  font-family: 'Pacifico', sans-serif;
+  text-align: center;
+}
+
+.body {
+  overflow: auto;
+}
+
+a {
+	text-decoration: underline;
+	/* text-decoration: none; */
+	color: purple;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: rgba(220, 75, 150,1);
+}
