@@ -26,3 +26,11 @@ a:hover {
 	text-decoration: underline;
 	color: rgba(220, 75, 150,1);
 }
+
+.spoiler {
+  visibility: hidden;
+}
+
+.spoiler {
+  visibility: visible;
+}
