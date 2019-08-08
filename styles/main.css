@@ -21,6 +21,9 @@ body {
   overflow: auto;
 }
 
+ul {
+}
+
 a {
   text-decoration: underline;
   /* text-decoration: none; */
