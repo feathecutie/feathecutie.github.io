@@ -27,10 +27,13 @@ a:hover {
   color: rgba(220, 75, 150,1);
 }
 
+/* Works with color, but not with visibility? */
 .spoiler {
-  color: black;
+  /* color: black; */
+  visibility: hidden;
 }
 
 .spoiler:hover {
-  color: white;
+  /* color: white; */
+  visibility: visible;
 }
