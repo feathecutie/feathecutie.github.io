@@ -3,7 +3,6 @@ body {
   color: purple;
   font-size: 250%;
   margin: 25px;
-  overflow: auto;
   font-family: 'VT323', sans-serif;
 }
 
@@ -27,13 +26,10 @@ a:hover {
   color: rgba(220, 75, 150,1);
 }
 
-/* Works with color, but not with visibility? */
 .spoiler {
-  /* color: black; */
-  visibility: hidden;
+  background-color: purple;
 }
 
 .spoiler:hover {
-  /* color: white; */
-  visibility: visible;
+  background-color: inherit;
 }
